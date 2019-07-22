@@ -1,5 +1,5 @@
 ---
-title: Thầy Bá Phong
+title: Anh Tài
 timezone: Asia/Bangkok
 collections:
   posts:
@@ -20,7 +20,7 @@ defaults:
     type: pages
   values:
     layout: page
-description: Học để tạo giá trị
+description: Tài năng là để tạo giá trị
 theme: minima
 siteurl: http://anhtai0110.github.io/at/
 permalink: pretty
